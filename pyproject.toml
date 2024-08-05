@@ -12,6 +12,7 @@ pandas = "^2.2.2"
 librosa = "^0.10.2.post1"
 pip = "^24.2"
 nltk = "^3.8.1"
+matplotlib = "^3.9.0"
 
 
 [build-system]
